@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 
 import 'platform_details.dart';
 
-class CheckPlatformDemo extends StatelessWidget {
-  const CheckPlatformDemo({Key? key}) : super(key: key);
+class CheckMainPlatformDemo extends StatelessWidget {
+  const CheckMainPlatformDemo({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

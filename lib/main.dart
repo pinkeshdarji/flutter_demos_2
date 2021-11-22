@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'check_platform/check_main_platform.dart';
+import 'circular_image/circular_image_demo.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: CheckPlatformDemo(),
+      home: CircularImagemDemo(),
     );
   }
 }
